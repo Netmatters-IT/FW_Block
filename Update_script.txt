@@ -1,0 +1,7 @@
+config system external-resource
+    edit "Netmatters_Block_1"
+    set type address
+        set resource "*"
+    set refresh-rate 480
+    next
+end
